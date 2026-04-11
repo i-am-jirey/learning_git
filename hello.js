@@ -5,4 +5,5 @@ console.log("From Jirey Profile");
 function greetHello(name) {
   console.log(`Hello ${name}`);
   console.log("Now this function is edited by developer Karun Ghimire");
+  console.log("Now this fn is edited by Jirey");
 }
